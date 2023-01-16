@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRental", "AutoRental.csproj", "{EBE90365-4857-4DD6-B306-1CEF6908CAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE90365-4857-4DD6-B306-1CEF6908CAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE90365-4857-4DD6-B306-1CEF6908CAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE90365-4857-4DD6-B306-1CEF6908CAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE90365-4857-4DD6-B306-1CEF6908CAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {629B404B-3065-45F1-AD33-75EA4554BF14}
+	EndGlobalSection
+EndGlobal

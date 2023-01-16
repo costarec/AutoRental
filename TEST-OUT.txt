@@ -1,0 +1,43 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20230112120848
+Username: KASHMIR\costarec
+RunAs User: KASHMIR\costarec
+Configuration Name: 
+Machine: KASHMIR (Microsoft Windows NT 10.0.19044.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\Tools\Microsoft.VisualStudio.DevShell.dll'; Enter-VsDevShell -SetDefaultWindowTitle -InstallPath 'C:\Program Files\Microsoft Visual Studio\2022\Enterprise' -StartInPath 'C:\devl\T200\C\AutoRental' }
+Process ID: 11696
+PSVersion: 5.1.19041.2364
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.2364
+BuildVersion: 10.0.19041.2364
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is ./TEST-OUT.txt
+PS C:\devl\T200\C\AutoRental> dir
+
+
+    Directory: C:\devl\T200\C\AutoRental
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         1/12/2023  10:54 AM                bin
+d-----         1/12/2023  10:54 AM                obj
+d-----         1/12/2023  10:20 AM                Properties
+-a----         1/12/2023  10:20 AM            189 App.config
+-a----         1/12/2023  10:54 AM           2404 AutoRental.csproj
+-a----         1/12/2023  10:20 AM           1125 AutoRental.sln
+-a----         1/12/2023  11:51 AM           1984 Car.cs
+-a----         1/12/2023  11:58 AM           2135 Program.cs
+-a----         1/12/2023  12:08 PM              0 TEST-OUT.txt
+
+
+PS C:\devl\T200\C\AutoRental> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20230112120856
+**********************
